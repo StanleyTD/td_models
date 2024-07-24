@@ -27,14 +27,24 @@ WITH _net_sales AS (
         product_product.code AS tdv_code,
         COALESCE(
             NULLIF(sale_order.warehouse_id_1, 'False'),
-            CASE WHEN account_move_line.analytic_account_id <> 'False' THEN REPLACE(account_move_line.analytic_account_id, CHR(39), '"')::json->>1 ELSE NULL END,
+            NULLIF( json_extract_array_element_text( REPLACE(account_move_line.analytic_account_id, CHR(39), '"'), 1, true ), '' ),
             'Unknown Warehouse'
         ) AS warehouse,
         account_move_line.partner_id_0 AS partner_id,
         account_move_line.partner_id_1 AS partner_name,
         res_partner.category_id,
-        CAST((CASE WHEN account_move.sale_origin_id <> 'False' THEN REPLACE(account_move.sale_origin_id, CHR(39), '"')::json->>0 ELSE NULL END) AS INTEGER) AS sale_origin_0,
-        (CASE WHEN account_move.sale_origin_id <> 'False' THEN REPLACE(account_move.sale_origin_id, CHR(39), '"')::json->>1 ELSE NULL END) AS sale_origin_1,
+        (CASE 
+            WHEN CAN_JSON_PARSE(REPLACE(account_move.sale_origin_id, CHR(39), '"')) THEN 
+                json_extract_array_element_text(REPLACE(account_move.sale_origin_id, CHR(39), '"'), 0)
+            ELSE
+                NULL
+        END) AS sale_origin_0,
+        (CASE 
+            WHEN CAN_JSON_PARSE(REPLACE(account_move.sale_origin_id, CHR(39), '"')) THEN 
+                json_extract_array_element_text(REPLACE(account_move.sale_origin_id, CHR(39), '"'), 1)
+            ELSE
+                NULL
+        END) AS sale_origin_1,
         account_move.is_mto,
         account_move_line.mto_product_id,
         stock_picking.date_done AS picking_date,
@@ -62,7 +72,7 @@ WITH _net_sales AS (
     WHERE
         account_move_line.parent_state = 'posted'
         AND account_move_line.account_internal_group IN ('income', 'expense')
-        AND EXTRACT(DAY FROM AGE(current_date, account_move_line.date)) < 191
+        AND DATEDIFF(d, account_move_line.date, current_date) < 191
     LIMIT 1000
 )
 SELECT * FROM _net_sales

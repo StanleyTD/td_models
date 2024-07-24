@@ -13,7 +13,12 @@ WITH mto_no_cogs AS (
     SELECT 
         id,
         CONCAT('[', CONCAT(id, CONCAT(', ', CONCAT(CHR(39), CONCAT(name, CONCAT(CHR(39), ']')))))) AS journal_origin,
-        (CASE WHEN sale_origin_id <> 'False' THEN REPLACE(sale_origin_id, CHR(39), '"')::json->>1 ELSE NULL END) AS sale_origin
+        (CASE 
+            WHEN CAN_JSON_PARSE(REPLACE(sale_origin_id, CHR(39), '"')) THEN 
+                json_extract_array_element_text(REPLACE(sale_origin_id, CHR(39), '"'), 1)
+            ELSE
+                NULL
+        END) AS sale_origin
     FROM
         {{ source('odooerp', 'account_move') }}
     WHERE
@@ -24,8 +29,8 @@ journals_from_mto AS (
     /* Journals used to debit sales on behalf of the driver */
     SELECT
         id, name, date,
-        CAST((CASE WHEN origin <> 'False' THEN REPLACE(origin, CHR(39), '"')::json->>0 ELSE NULL END) AS INTEGER) AS mto_origin_id, 
-        (CASE WHEN origin <> 'False' THEN REPLACE(origin, CHR(39), '"')::json->>1 ELSE NULL END) AS mto_origin_name
+        json_extract_array_element_text(REPLACE(origin, CHR(39), '"'), 0) AS mto_origin_id, 
+        json_extract_array_element_text(REPLACE(origin, CHR(39), '"'), 1) AS mto_origin_name
     FROM
         {{ source('odooerp', 'account_move') }}
     WHERE

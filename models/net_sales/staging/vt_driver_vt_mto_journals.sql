@@ -33,7 +33,12 @@ WITH mto_no_cogs AS (
     SELECT 
         id,
         sale_origin_id,
-        (CASE WHEN sale_origin_id <> 'False' THEN REPLACE(sale_origin_id, CHR(39), '"')::json->>1 ELSE NULL END) AS sale_origin
+        (CASE 
+            WHEN CAN_JSON_PARSE(REPLACE(sale_origin_id, CHR(39), '"')) THEN 
+                json_extract_array_element_text(REPLACE(sale_origin_id, CHR(39), '"'), 1)
+            ELSE
+                NULL
+        END) AS sale_origin
     FROM
         {{ source('odooerp', 'account_move') }}
     WHERE
