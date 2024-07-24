@@ -1,0 +1,279 @@
+company_id_1,company_id_0,gl_account_name,gl_account_id,product_id_1,warehouse,credit,debit,id,move_line_id,date,invoice_origin,name,move_type,product_id_0,price_unit,quantity,producer,partner_id,partner_name,category_id,is_mto,mto_product_id
+TD Edo,12,501200 Dropshipping Expenses,2224,,Unknown Warehouse,0,15000,6239435,29058537,26-Jan-2024,False,MISC/2024/01/097,entry,,0,1,Pernod Ricard Nigeria,,,,False,0
+TD Edo,12,501200 Dropshipping Expenses,2224,,Unknown Warehouse,0,10000,6239439,29058546,26-Jan-2024,False,MISC/2024/01/098,entry,,0,1,Pernod Ricard Nigeria,,,,False,0
+TD Edo,12,501200 Dropshipping Expenses,2224,,Unknown Warehouse,0,22500,6520966,30064149,12-Apr-2024,False,MISC/2024/04/047,entry,,0,1,GrandOak,,,,False,0
+TD Edo,12,501200 Dropshipping Expenses,2224,,Unknown Warehouse,0,41000,6543354,30138645,22-Apr-2024,False,MISC/2024/04/065,entry,,0,1,GrandOak,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,115300,6142019,28710503,5-Jan-2024,False,MISC/2024/01/001,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,257000,6154406,28754532,9-Jan-2024,False,MISC/2024/01/016,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,261600,6160588,28774500,10-Jan-2024,False,MISC/2024/01/018,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,204700,6161751,28777838,10-Jan-2024,False,MISC/2024/01/023,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,898100,6179412,28841443,15-Jan-2024,False,MISC/2024/01/035,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,109000,6179887,28845693,15-Jan-2024,False,MISC/2024/01/042,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,120000,6185206,28864885,16-Jan-2024,False,MISC/2024/01/053,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Edo,12,501300 Discount on sales,1477,,Unknown Warehouse,0,420000,6205290,28939608,20-Jan-2024,False,MISC/2024/01/064,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,62000,6135560,28689427,3-Jan-2024,False,MISC/2024/01/000000015,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,17500,6138939,28701924,3-Jan-2024,False,MISC/2024/01/000000032,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,87277.9,6151624,28743498,8-Jan-2024,False,MISC/2024/01/000000096,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,77000,6175268,28829497,11-Jan-2024,False,MISC/2024/01/000000212,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,158025,6189520,-1,17-Jan-2024,False,MISC/2024/01/000000287,entry,,0,1,Dangote,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,438502.4,6189520,-1,17-Jan-2024,False,MISC/2024/01/000000287,entry,,0,1,Crown Flour Mill Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,438502.4,6208259,28949464,18-Jan-2024,False,MISC/2024/01/000000381,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,192100,6236242,-1,25-Jan-2024,False,MISC/2024/01/000000559,entry,,0,1,Chi Nigeria Limited,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,684600,6236242,-1,25-Jan-2024,False,MISC/2024/01/000000559,entry,,0,1,Crown Flour Mill Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,107800,6256920,29139621,29-Jan-2024,False,MISC/2024/01/000000684,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,153969.2,6255383,29129829,2-Feb-2024,False,MISC/2024/02/000000020,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,47500,6255988,29131249,2-Feb-2024,False,MISC/2024/02/000000026,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,610632,6256594,29133525,1-Feb-2024,False,MISC/2024/02/000000027,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,171325,6266152,-1,1-Feb-2024,False,MISC/2024/02/000000041,entry,,0,1,BUA Foods Plc,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,232750,6266152,-1,1-Feb-2024,False,MISC/2024/02/000000041,entry,,0,1,Crown Flour Mill Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,90901.35,6266152,-1,1-Feb-2024,False,MISC/2024/02/000000041,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,52150,6287852,-1,9-Feb-2024,False,MISC/2024/02/000000130,entry,,0,1,Honeywell Flour Mills,,,,False,31
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,56000,6287852,-1,9-Feb-2024,False,MISC/2024/02/000000130,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,63900,6298629,29311694,12-Feb-2024,False,MISC/2024/02/000000226,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,10650,6298629,29285859,12-Feb-2024,False,MISC/2024/02/000000226,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,11250,6299757,29289260,13-Feb-2024,False,MISC/2024/02/000000229,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1100400,6302152,29295446,13-Feb-2024,False,MISC/2024/02/000000234,entry,,0,1,GrandOak,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15000,6307355,29312241,14-Feb-2024,False,MISC/2024/02/000000250,entry,,0,1,Nigerian Breweries,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,19500,6307764,29313938,14-Feb-2024,False,MISC/2024/02/000000254,entry,,0,1,Frutta Juice & Services Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,30800,6311595,29329219,15-Feb-2024,False,MISC/2024/02/000000287,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,290450,6312148,29330510,15-Feb-2024,False,MISC/2024/02/000000301,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,101750,6317895,29352925,17-Feb-2024,False,MISC/2024/02/000000346,entry,,0,1,Frutta Juice & Services Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,23100,6323938,29373166,19-Feb-2024,False,MISC/2024/02/000000356,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1528500,6325100,29379060,19-Feb-2024,False,MISC/2024/02/000000371,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,74466,6328556,-1,20-Feb-2024,False,MISC/2024/02/000000383,entry,,0,1,BUA Foods Plc,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,752640,6328556,-1,20-Feb-2024,False,MISC/2024/02/000000383,entry,,0,1,Crown Flour Mill Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,148957.88,6333006,29406138,21-Feb-2024,False,MISC/2024/02/000000458,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15442.88,6338395,29430698,22-Feb-2024,False,MISC/2024/02/000000488,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15384.88,6338437,29430835,22-Feb-2024,False,MISC/2024/02/000000492,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,28800,6349714,29470983,26-Feb-2024,False,MISC/2024/02/000000568,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,787207.5,6350912,29473953,26-Feb-2024,False,MISC/2024/02/000000569,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1350000,6358337,29503139,27-Feb-2024,False,MISC/2024/02/000000612,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,291271.51,6384212,29593433,20-Feb-2024,False,MISC/2024/02/000000787,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,125367.57,6388300,29608263,6-Mar-2024,False,MISC/2024/03/000000060,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,492800,6391349,29617487,7-Mar-2024,False,MISC/2024/03/000000067,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,73986.79,6391402,29617646,7-Mar-2024,False,MISC/2024/03/000000069,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,210096.2,6391416,29617693,7-Mar-2024,False,MISC/2024/03/000000070,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,235759.92,6391534,29618071,7-Mar-2024,False,MISC/2024/03/000000071,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,287100,6410913,29686362,13-Mar-2024,False,MISC/2024/03/000000213,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,308000,6415147,29701742,14-Mar-2024,False,MISC/2024/03/000000341,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,4698300,6415246,29702481,12-Mar-2024,False,MISC/2024/03/000000342,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,955450,6415246,29702483,12-Mar-2024,False,MISC/2024/03/000000342,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,92000,6415255,29702529,14-Mar-2024,False,MISC/2024/03/000000343,entry,,0,1,HELL ENERGY MAGYARORSZAG KFT,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,19350,6415313,29703031,14-Mar-2024,False,MISC/2024/03/000000344,entry,,0,1,Frutta Juice & Services Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,464950,6434239,29767353,13-Mar-2024,False,MISC/2024/03/000000508,entry,,0,1,Dangote,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,28000,6436710,29774903,21-Mar-2024,False,MISC/2024/03/000000519,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,8750,6436714,29774916,21-Mar-2024,False,MISC/2024/03/000000520,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1838000,6452039,29827574,22-Mar-2024,False,MISC/2024/03/000000716,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,3192000,6458772,29849851,27-Mar-2024,False,MISC/2024/03/000000753,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,2887080,6459692,29854888,27-Mar-2024,False,MISC/2024/03/000000786,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,610000,6470764,-1,29-Mar-2024,False,MISC/2024/03/000000946,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,228700,6470764,-1,29-Mar-2024,False,MISC/2024/03/000000946,entry,,0,1,Dangote,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,14035100,6488316,29951875,30-Mar-2024,False,MISC/2024/03/000001078,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,793000,6495787,29977090,30-Mar-2024,False,MISC/2024/03/000001091,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,25000,6500754,29993748,12-Apr-2024,False,MISC/2024/04/000000255,entry,,0,1,HELL ENERGY MAGYARORSZAG KFT,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,148456,6506176,30013100,14-Apr-2024,False,MISC/2024/04/000000343,entry,,0,1,Seven-Up,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1984500,6525375,30079298,14-Apr-2024,False,MISC/2024/04/000000556,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,100000,6539682,30125887,24-Apr-2024,False,MISC/2024/04/000000762,entry,,0,1,Unilever Nigeria Plc,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,610000,6542580,30135914,25-Apr-2024,False,MISC/2024/04/000000788,entry,,0,1,Crown Flour Mill Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,424950,6542580,30135914,25-Apr-2024,False,MISC/2024/04/000000788,entry,,0,1,Dangote,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,50000,6553436,30174319,26-Apr-2024,False,MISC/2024/04/000000887,entry,,0,1,HELL ENERGY MAGYARORSZAG KFT,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,30000,6554112,30176427,29-Apr-2024,False,MISC/2024/04/000000895,entry,,0,1,Kamco Chew Food Private Limited,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,73284.1156,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,16340.83842,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,37115.31595,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1599.745863,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Frutta Juice & Services Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,168048.0512,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15997.45863,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,5534.474324,6555590,-1,29-Apr-2024,False,MISC/2024/04/000000979,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,90811.93,6558241,30190875,30-Apr-2024,False,MISC/2024/04/000001007,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,94850,6558301,30191278,30-Apr-2024,False,MISC/2024/04/000001010,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,7500,6558641,30192341,30-Apr-2024,False,MISC/2024/04/000001017,entry,,0,1,Kamco Chew Food Private Limited,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,19869219,6559771,30197932,30-Apr-2024,False,MISC/2024/04/000001036,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15000,6561228,30201864,30-Apr-2024,False,MISC/2024/04/000001045,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1222080,6561490,30202426,30-Apr-2024,False,MISC/2024/04/000001047,entry,,0,1,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,113675,6561490,30202426,30-Apr-2024,False,MISC/2024/04/000001047,entry,,0,1,Dangote,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,111200,6564600,30213715,30-Apr-2024,False,MISC/2024/04/000001081,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,6506.765325,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Arla Foods,6257,Campbell 	 Oladipupo,[1],False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,710.3644744,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Chi Nigeria Limited,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,3721.640434,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,7056.287113,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Dangote,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,8903.234746,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,639.328027,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Eko Supreme Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,6843.467333,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Evans,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,2314.935585,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Fareast Mercantile Co Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,62324.45187,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,4889.412265,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Frutta Juice & Services Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,184.5848495,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,3293.413512,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,GrandOak,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,12326.83376,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Holden International Limited,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,24118.76821,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Nasco,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1082.897784,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1369.300949,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Nourdm Global,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,450.8446531,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,4799.982334,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Procter and Gamble,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,31143.70877,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,2202.402885,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,PZ Cussons Nigeria Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,5332.469321,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Sankin Industries Nigeria Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,625.1207375,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Tembo Care Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,11357.56227,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,9302.222793,6568467,30226488,13-Apr-2024,False,MISC/2024/04/000001139,entry,,0,1,Unimer S.A,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1621250,6576459,30253328,30-Apr-2024,False,MISC/2024/04/000001223,entry,,0,1,Unilever International,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,15452.8514,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Chi Nigeria Limited,,,,False,0
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,6026.495477,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,666.0951067,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Dangote,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1648.307849,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,EuroMega Atlantic Limited,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,5105.618992,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Evans,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,4720.208963,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,7258.216345,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,FrieslandCampina WAMCO Nigeria,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,893.6776014,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,2722.219685,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,2154.484622,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Nourdm Global,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,122.8575419,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Planet Bottling Company,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,3337.87659,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Procter and Gamble,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,9163.063324,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,6342.705627,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,PZ Cussons Nigeria Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,590.6043279,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Sankin Industries Nigeria Ltd,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,355.2507235,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Seven-Up,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,4856.943486,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,3139.528269,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,1884.494073,6578547,30260721,27-Apr-2024,False,MISC/2024/04/000001241,entry,,0,1,Unimer S.A,,,,False,
+TD Lagos,3,501300 Discount on sales,284,,Unknown Warehouse,0,267740,6580818,30270912,30-Apr-2024,False,MISC/2024/04/000001245,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3092.13901,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4122.852013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4122.852013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,41228.52013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4122.852013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4122.852013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,11337.84304,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6493.491921,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,46175.94255,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10307.13003,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5565.850218,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3092.13901,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3710.566812,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4122.852013,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6039.9782,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3092.13901,6178217,-1,10-Jan-2024,False,MISC/2024/01/000000218,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,8107.848166,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10810.46422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10810.46422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,108104.6422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10810.46422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10810.46422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,29728.77661,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,17026.48115,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,121077.1993,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,27026.16055,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,14594.1267,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,8107.848166,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,9729.417799,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10810.46422,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,15837.33008,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,8107.848166,6213839,-1,22-Jan-2024,False,MISC/2024/01/000000408,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5078.225186,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6770.966915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6770.966915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,67709.66915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6770.966915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6770.966915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,18620.15902,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10664.27289,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,75834.82944,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,16927.41729,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,9140.805335,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5078.225186,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6093.870223,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6770.966915,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,9919.46653,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5078.225186,6294950,-1,7-Feb-2024,False,MISC/2024/02/000000166,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3173.890741,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4231.854322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4231.854322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,42318.54322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4231.854322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4231.854322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,11637.59938,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6665.170557,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,47396.7684,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10579.6358,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5713.003334,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3173.890741,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3808.668889,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4231.854322,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6199.666581,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3173.890741,6297095,-1,7-Feb-2024,False,MISC/2024/02/000000177,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,2885.355219,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3847.140292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3847.140292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,38471.40292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3847.140292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3847.140292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,10579.6358,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6059.245961,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,43087.97127,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,9617.850731,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5193.639395,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,2885.355219,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3462.426263,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3847.140292,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,5636.060528,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,2885.355219,6332195,-1,20-Feb-2024,False,MISC/2024/02/000000440,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,961.7850731,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1282.380097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1282.380097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,12823.80097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1282.380097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1282.380097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3526.545268,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,2019.748654,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,14362.65709,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3205.950244,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1731.213132,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,961.7850731,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1154.142088,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1282.380097,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,1878.686843,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,961.7850731,6344903,-1,22-Feb-2024,False,MISC/2024/02/000000542,entry,,0,1,Yusol International Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3577.840472,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Ayoola Foods Limited,,,,False,0
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4770.453963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Cadbury Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4770.453963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Coca-Cola Company,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,47704.53963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,DUFIL Prima foods Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4770.453963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Flour Mills of Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4770.453963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,GB Foods,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,13118.7484,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Guinness Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,7513.464991,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Honeywell Flour Mills,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,53429.08438,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Nestle Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,11926.13491,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Nigerian Breweries,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6440.112849,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Olam Group Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3577.840472,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Promasidor,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4293.408566,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Tradedepot Imported,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,4770.453963,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,TTL Rahal Nigeria,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,6988.715055,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Unilever Nigeria Plc,,,,False,
+TD Lagos,3,501500 Packaging Cost,289,,Unknown Warehouse,0,3577.840472,6441296,-1,22-Mar-2024,False,MISC/2024/03/000000566,entry,,0,1,Yusol International Foods,,,,False,
+TD Oyo,9,501100 Discount Allowed,454,,Unknown Warehouse,0,633950,6437318,29777343,19-Mar-2024,False,MISC/2024/03/0119,entry,,0,1,Frutta Juice & Services Ltd,,,,False,0
+TD Rivers,5,501100 Discount Allowed,654,,Unknown Warehouse,0,1028710,6425722,29736144,29-Feb-2024,False,MISC/2024/02/0138,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6140159,28705541,2-Jan-2024,False,MISC/2024/01/0004,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,200000,6156368,28761283,4-Jan-2024,False,MISC/2024/01/0013,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,170000,6157187,28765874,4-Jan-2024,False,MISC/2024/01/0014,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6167187,28800723,10-Jan-2024,False,MISC/2024/01/0020,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,150000,6171161,28815138,11-Jan-2024,False,MISC/2024/01/0025,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6222875,29001089,23-Jan-2024,False,MISC/2024/01/0063,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6222973,29001448,24-Jan-2024,False,MISC/2024/01/0066,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6240134,29064794,25-Jan-2024,False,MISC/2024/01/0086,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,100000,6240138,29064810,28-Jan-2024,False,MISC/2024/01/0087,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Rivers,5,501200 Dropshipping Expenses,2238,,Unknown Warehouse,0,50000,6250627,29113438,31-Jan-2024,False,MISC/2024/01/0093,entry,,0,1,Frutta Juice & Services Ltd,3532,FRUTTA JUICE & SERVICES LTD,[3],False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,80000,6237191,29052111,30-Jan-2024,False,MISC/2024/01/0068,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,70574,6238811,29056208,30-Jan-2024,False,MISC/2024/01/0069,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,72534,6296911,29276337,4-Feb-2024,False,MISC/2024/02/0034,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,72534,6298466,29283937,4-Feb-2024,False,MISC/2024/02/0047,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,200000,6352785,29479861,26-Feb-2024,False,MISC/2024/02/0072,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,86100,6385380,29596158,6-Mar-2024,False,MISC/2024/03/0011,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,1580000,6429508,29750541,19-Mar-2024,False,MISC/2024/03/0112,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,55000,6433289,29763662,20-Mar-2024,False,MISC/2024/03/0129,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,245000,6444179,29800848,23-Mar-2024,False,MISC/2024/03/0172,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,136700,6444268,29801070,23-Mar-2024,False,MISC/2024/03/0173,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,80000,6444274,29801122,23-Mar-2024,False,MISC/2024/03/0174,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,18710,6555696,30181962,29-Apr-2024,False,MISC/2024/04/0209,entry,,0,1,Nestle Nigeria Plc,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,232800,6568324,30226128,17-Apr-2024,False,MISC/2024/04/0246,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,53900,6570009,30233344,30-Apr-2024,False,MISC/2024/04/0248,entry,,0,1,Coca-Cola Company,,,,False,0
+TD Sourcing Limited,22,501300 Discount on sales,5395,,Unknown Warehouse,0,1013500,6580836,30270951,30-Apr-2024,False,MISC/2024/04/0276,entry,,0,1,Coca-Cola Company,,,,False,0

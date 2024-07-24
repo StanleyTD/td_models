@@ -1,0 +1,30 @@
+sources:
+  - name: odooerp 
+    database: dbt-TD
+    schema: odooerp
+
+    tables:
+      - name: account_move   
+        identifier: account_move
+      - name: account_account     
+        identifier: account_account
+      - name: account_move_line  
+        identifier: account_move_line
+      - name: product_product     
+        identifier: product_product
+      - name: res_partner
+        identifier: res_partner
+      - name: sale_order
+        identifier: sale_order
+      - name: stock_picking
+        identifier: stock_picking
+
+  - name: odoo_etl
+    database: dbt-TD
+    schema: odoo_etl
+
+    tables:
+      - name: net_sales
+        identifier: net_sales
+      - name: v_sku_producers
+        identifier: v_sku_producers

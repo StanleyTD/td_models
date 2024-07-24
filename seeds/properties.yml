@@ -1,0 +1,167 @@
+version: 2
+
+seeds:
+  - name: cogs_producers
+    config:
+      column_types:
+        gl_account_name: text
+        gl_account_id: integer
+        partner_name: text
+        company_id_1: text
+        company_id_0: integer
+        product_id_1: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        product_id_0: integer
+        price_unit: double precision
+        quantity: double precision
+        producer: text
+        tdv_code: text
+        partner_id: double precision
+        category_id: text
+        sale_origin_0: integer
+        sale_origin_1: text
+        is_mto: boolean
+        mto_product_id: double precision
+        picking_date: date
+        sales_order_date: date
+  - name: cogs_producers2
+    config:
+      column_types:
+        company_id_1: text
+        company_id_0: integer
+        gl_account_name: text
+        gl_account_id: integer
+        product_id_1: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        product_id_0: integer
+        price_unit: double precision
+        quantity: double precision
+        producer: text
+        partner_id: double precision
+        partner_name: text
+        category_id: text
+        is_mto: boolean
+        mto_product_id: double precision
+  - name: cogs_producers3
+    config:
+      column_types:
+        gl_account_name: text
+        company_id_1: text
+        product_id_1: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        gl_account_id: integer
+        product_id_0: integer
+        price_unit: double precision
+        quantity: double precision
+        company_id_0: integer
+        producer: text
+        tdv_code: text
+        partner_id: double precision
+        partner_name: text
+        category_id: text
+        sale_origin_0: integer
+        sale_origin_1: text
+        is_mto: boolean
+        mto_product_id: double precision
+        picking_date: date
+        sales_order_date: date
+  - name: sales_producers
+    config:
+      column_types:
+        company_id_1: text
+        gl_account_name: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        gl_account_id: integer
+        price_unit: double precision
+        quantity: double precision
+        company_id_0: integer
+        producer: text
+        partner_id: double precision
+        partner_name: text
+        category_id: text
+        is_mto: boolean
+        mto_product_id: double precision
+  - name: sales_producers2
+    config:
+      column_types:
+        company_id_1: text
+        gl_account_name: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        gl_account_id: integer
+        product_id_0: integer
+        price_unit: double precision
+        quantity: double precision
+        company_id_0: integer
+        producer: text
+        is_mto: boolean
+  - name: sales_producers3
+    config:
+      column_types:
+        gl_account_name: text
+        company_id_1: text
+        product_id_1: text
+        warehouse: text
+        credit: double precision
+        debit: double precision
+        id: integer
+        move_line_id: integer
+        date: date
+        invoice_origin: text
+        name: text
+        move_type: text
+        gl_account_id: integer
+        product_id_0: integer
+        price_unit: double precision
+        quantity: double precision
+        company_id_0: integer
+        producer: text
+        tdv_code: text
+        partner_id: double precision
+        partner_name: text
+        category_id: text
+        sale_origin_0: integer
+        sale_origin_1: text
+        is_mto: boolean
+        mto_product_id: double precision
+        picking_date: date
+        sales_order_date: date

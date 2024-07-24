@@ -1,0 +1,16 @@
+company_id_1,gl_account_name,warehouse,credit,debit,id,move_line_id,date,invoice_origin,name,move_type,gl_account_id,price_unit,quantity,company_id_0,producer,partner_id,partner_name,category_id,is_mto,mto_product_id
+TD Lagos,400000 Sales,Unknown Warehouse,280,0,6160687,28774848,10-Jan-2024,False,MISC/2024/01/000000152,entry,193,0,1,3,Crown Flour Mill Ltd,,,,False,0
+TD Lagos,400000 Sales,Unknown Warehouse,447.96,0,6135314,28687928,3-Jan-2024,False,MISC/2024/01/000000010,entry,193,0,1,3,Frutta Juice & Services Ltd,,,,False,0
+TD Lagos,400000 Sales,Unknown Warehouse,31230,0,6402495,29656815,11-Mar-2024,False,MISC/2024/03/000000149,entry,193,0,1,3,Frutta Juice & Services Ltd,,,,False,0
+TD Oyo,400000 Sales,Unknown Warehouse,0,767550,6437318,29777341,19-Mar-2024,False,MISC/2024/03/0119,entry,445,0,1,9,Frutta Juice & Services Ltd,,,,False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,452155,6298891,29286651,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,4827067.99,6298891,29286637,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,32545959.03,6298891,29286616,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,2781705.9,6298891,29286612,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,474510,6298891,29286639,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Sourcing Limited,400000 Sales,Unknown Warehouse,0,21697306.02,6298891,29286614,31-Jan-2024,False,MISC/2024/01/0112,entry,5377,0,1,22,Nestle Nigeria Plc,3592,Nestlé Nigeria PLC,[3],False,0
+TD Lagos,400000 Sales,Unknown Warehouse,0,8877.6,6566913,30222538,31-Mar-2024,False,MISC/2024/03/000001103,entry,193,0,1,3,Seven-Up,6152,Seven-Up Bottling Company,"[8, 7, 3]",False,0
+TD Lagos,400000 Sales,Unknown Warehouse,0,6294086.12,6566913,30222536,31-Mar-2024,False,MISC/2024/03/000001103,entry,193,0,1,3,Seven-Up,6152,Seven-Up Bottling Company,"[8, 7, 3]",False,0
+TD Lagos,400000 Sales,Unknown Warehouse,0,26191.94,6566906,30222528,29-Feb-2024,False,MISC/2024/02/000000962,entry,193,0,1,3,Seven-Up,6152,Seven-Up Bottling Company,"[8, 7, 3]",False,0
+TD Lagos,400000 Sales,Unknown Warehouse,0,4434667.26,6566906,30222507,29-Feb-2024,False,MISC/2024/02/000000962,entry,193,0,1,3,Seven-Up,6152,Seven-Up Bottling Company,"[8, 7, 3]",False,0
+TD Lagos,400000 Sales,Unknown Warehouse,44610,0,6183532,28857722,16-Jan-2024,False,MISC/2024/01/000000252,entry,193,0,1,3,Unilever International,,,,False,0
