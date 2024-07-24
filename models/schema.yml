@@ -1,6 +1,6 @@
 sources:
   - name: odooerp 
-    database: dbt-TD
+    database: tradedepot
     schema: odooerp
 
     tables:
@@ -20,7 +20,7 @@ sources:
         identifier: stock_picking
 
   - name: odoo_etl
-    database: dbt-TD
+    database: tradedepot
     schema: odoo_etl
 
     tables:
