@@ -28,7 +28,7 @@ seeds:
         category_id: text
         sale_origin_0: integer
         sale_origin_1: text
-        is_mto: boolean
+        is_mto: text
         mto_product_id: double precision
         picking_date: date
         sales_order_date: date
@@ -56,7 +56,7 @@ seeds:
         partner_id: double precision
         partner_name: text
         category_id: text
-        is_mto: boolean
+        is_mto: text
         mto_product_id: double precision
   - name: cogs_producers3
     config:
@@ -85,7 +85,7 @@ seeds:
         category_id: text
         sale_origin_0: integer
         sale_origin_1: text
-        is_mto: boolean
+        is_mto: text
         mto_product_id: double precision
         picking_date: date
         sales_order_date: date
@@ -111,7 +111,7 @@ seeds:
         partner_id: double precision
         partner_name: text
         category_id: text
-        is_mto: boolean
+        is_mto: text
         mto_product_id: double precision
   - name: sales_producers2
     config:
@@ -133,7 +133,7 @@ seeds:
         quantity: double precision
         company_id_0: integer
         producer: text
-        is_mto: boolean
+        is_mto: text
   - name: sales_producers3
     config:
       column_types:
@@ -161,7 +161,7 @@ seeds:
         category_id: text
         sale_origin_0: integer
         sale_origin_1: text
-        is_mto: boolean
+        is_mto: text
         mto_product_id: double precision
         picking_date: date
         sales_order_date: date
