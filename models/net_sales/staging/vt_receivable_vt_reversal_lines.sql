@@ -111,7 +111,7 @@ vt_receivable_credit_lines AS (
         driver_inv_from_mto_inv.category_id,
         NULL AS sale_origin_0,
         NULL AS sale_origin_1,
-        FALSE AS is_mto,
+        'False' AS is_mto,
         NULL AS mto_product_id,
         CAST(NULL AS TIMESTAMP) AS picking_date,
         CAST(NULL AS TIMESTAMP) AS sales_order_date
