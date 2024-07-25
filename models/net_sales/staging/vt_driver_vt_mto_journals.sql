@@ -116,11 +116,11 @@ vt_mto_journals AS (
         NULL AS invoice_origin,
         a.name,
         'out_invoice' AS move_type,
-        CAST(NULL AS INTEGER) AS gl_account_id,
+        NULL AS gl_account_id,
         '500000 Cost of Goods' AS gl_account_name,
         0 AS credit,
         a.mto_cogs AS debit,
-        CAST(NULL AS INTEGER) AS product_id_0,
+        NULL AS product_id_0,
         NULL AS product_id_1,
         0 AS price_unit,
         a.quantity,
@@ -134,7 +134,7 @@ vt_mto_journals AS (
         a.category_id,
         a.sale_origin_0,
         a.sale_origin_1,
-        TRUE AS is_mto,
+        'True' AS is_mto,
         a.mto_product_id,
         CAST(NULL AS TIMESTAMP) AS picking_date,
         CAST(NULL AS TIMESTAMP) AS sales_order_date
@@ -222,8 +222,8 @@ vt_driver_journals AS (
         a.sale_origin_1,
         a.is_mto,
         a.mto_product_id,
-        CAST(NULL AS TIMESTAMP) AS picking_date,
-        CAST(NULL AS TIMESTAMP) AS sales_order_date
+        NULL AS picking_date,
+        NULL AS sales_order_date
     FROM
         vt_driver_journals_tmp a LEFT JOIN vt_mto_cogs b
             ON a.invoice_origin = b.sale_origin_1 AND a.product_id_0 = b.mto_product_id

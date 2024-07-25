@@ -64,8 +64,8 @@ vt_reversal_lines_for_journals_from_mto AS (
         sale_origin_1,
         is_mto,
         mto_product_id,
-        CAST(NULL AS TIMESTAMP) AS picking_date,
-        CAST(NULL AS TIMESTAMP) AS sales_order_date
+        NULL AS picking_date,
+        NULL AS sales_order_date
     FROM
         td_models_stg._net_sales
     WHERE
@@ -109,10 +109,10 @@ vt_receivable_credit_lines AS (
         driver_inv_from_mto_inv.partner_id,
         driver_inv_from_mto_inv.partner_name,
         driver_inv_from_mto_inv.category_id,
-        CAST(NULL AS INTEGER) AS sale_origin_0,
+        NULL AS sale_origin_0,
         NULL AS sale_origin_1,
         FALSE AS is_mto,
-        CAST(NULL AS INTEGER) AS mto_product_id,
+        NULL AS mto_product_id,
         CAST(NULL AS TIMESTAMP) AS picking_date,
         CAST(NULL AS TIMESTAMP) AS sales_order_date
     FROM
