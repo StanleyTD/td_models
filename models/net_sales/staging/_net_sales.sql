@@ -73,6 +73,5 @@ WITH _net_sales AS (
         account_move_line.parent_state = 'posted'
         AND account_move_line.account_internal_group IN ('income', 'expense')
         AND DATEDIFF(d, account_move_line.date, current_date) < 191
-    LIMIT 1000
 )
 SELECT * FROM _net_sales
