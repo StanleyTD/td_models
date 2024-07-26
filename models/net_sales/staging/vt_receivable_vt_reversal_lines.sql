@@ -1,7 +1,7 @@
 {{ 
 	config(
         pre_hook="""
-                    INSERT INTO td_models_stg._net_sales (id, move_line_id, date, invoice_origin, name, move_type, gl_account_id, gl_account_name, credit, debit, product_id_0, product_id_1, price_unit, quantity, company_id_0, company_id_1, producer, tdv_code, warehouse, partner_id, partner_name, category_id, sale_origin_0, sale_origin_1, is_mto, mto_product_id, picking_date, sales_order_date) 
+                    INSERT INTO {{ ref('_net_sales') }} (id, move_line_id, date, invoice_origin, name, move_type, gl_account_id, gl_account_name, credit, debit, product_id_0, product_id_1, price_unit, quantity, company_id_0, company_id_1, producer, tdv_code, warehouse, partner_id, partner_name, category_id, sale_origin_0, sale_origin_1, is_mto, mto_product_id, picking_date, sales_order_date) 
                         SELECT id, move_line_id, date, invoice_origin, name, move_type, gl_account_id, gl_account_name, credit, debit, product_id_0, product_id_1, price_unit, quantity, company_id_0, company_id_1, producer, tdv_code, warehouse, partner_id, partner_name, category_id, sale_origin_0, sale_origin_1, is_mto, mto_product_id, picking_date, sales_order_date FROM {{ ref('vt_driver_vt_mto_journals') }}
         """,
 		materialized='table' 
@@ -67,7 +67,7 @@ vt_reversal_lines_for_journals_from_mto AS (
         NULL AS picking_date,
         NULL AS sales_order_date
     FROM
-        td_models_stg._net_sales
+        {{ ref('_net_sales') }}
     WHERE
         id IN (SELECT id FROM journals_from_mto)
 ),
@@ -80,7 +80,7 @@ driver_inv_from_mto_inv AS (
         category_id,
         warehouse
     FROM
-        td_models_stg._net_sales
+        {{ ref('_net_sales') }}
     WHERE
         is_mto != 'True' AND move_type = 'out_invoice' AND category_id NOT LIKE '%13%'
         AND invoice_origin IN (SELECT sale_origin FROM mto_no_cogs)
@@ -116,7 +116,7 @@ vt_receivable_credit_lines AS (
         CAST(NULL AS TIMESTAMP) AS picking_date,
         CAST(NULL AS TIMESTAMP) AS sales_order_date
     FROM
-        td_models_stg._net_sales net_sales LEFT OUTER JOIN {{ source('odooerp', 'product_product') }}
+        {{ ref('_net_sales') }} net_sales LEFT OUTER JOIN {{ source('odooerp', 'product_product') }}
             ON mto_product_id = product_product.id
 
         LEFT JOIN driver_inv_from_mto_inv

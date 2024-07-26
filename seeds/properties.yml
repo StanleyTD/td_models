@@ -165,3 +165,7 @@ seeds:
         mto_product_id: double precision
         picking_date: date
         sales_order_date: date
+  - name: deleted_move_line_ids
+    config:
+      column_types:
+        move_line_id: integer

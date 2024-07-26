@@ -5,7 +5,7 @@
         pre_hook=[
             """
                 UPDATE
-                    td_models_stg._net_sales t1
+                    {{ ref('_net_sales') }} t1
                 SET 
                     producer = t2.Producer
                 FROM
@@ -15,7 +15,7 @@
             """, 
             """
                 UPDATE
-                    td_models_stg._net_sales t1
+                    {{ ref('_net_sales') }} t1
                 SET 
                     warehouse = t2.warehouse_id_1
                 FROM
@@ -49,7 +49,7 @@ driver_inv_for_mto AS (
     SELECT
         *
     FROM
-        td_models_stg._net_sales
+        {{ ref('_net_sales') }}
     WHERE
         gl_account_name = '500000 Cost of Goods' AND move_type = 'out_invoice' AND debit > 0
         AND invoice_origin IN (SELECT sale_origin FROM mto_no_cogs)
@@ -89,7 +89,7 @@ vt_mto_cogs AS (
         SUM(quantity) AS quantity,
         (SUM(quantity) * SUM(b.unit_cogs)) AS mto_cogs
     FROM
-        td_models_stg._net_sales a LEFT JOIN cogs_per_sku_per_inv b
+        {{ ref('_net_sales') }} a LEFT JOIN cogs_per_sku_per_inv b
             ON a.sale_origin_1 = b.invoice_origin AND a.mto_product_id = b.product_id_0
     WHERE
         a.move_type = 'out_invoice' AND a.gl_account_name = '400000 Sales'
